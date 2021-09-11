@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "group": "B",
+    "when": "2021-08-08T21:30:00+02:00",
+    "teams": [
+      { "id": "MenuMattino", "goals": 3 },
+      { "id": "SergentTeam", "goals": 3 }
+    ]
+  },
+  {
+    "group": "A",
+    "when": "2021-08-10T21:00:00+02:00",
+    "teams": [
+      { "id": "BarIlLupacchiotto", "goals": 3 },
+      { "id": "LARITeam", "goals": 3 }
+    ]
+  },
+  {
+    "group": "B",
+    "when": "2021-08-11T21:00:00+02:00",
+    "teams": [
+      { "id": "OtticaChecchia", "goals": 4 },
+      { "id": "MenuMattino", "goals": 5 }
+    ]
+  },
+  {
+    "group": "A",
+    "when": "2021-08-12T19:00:00+02:00",
+    "teams": [
+      { "id": "BarIlLupacchiotto", "goals": 7 },
+      { "id": "SVM", "goals": 3 }
+    ]
+  },
+  {
+    "group": "B",
+    "when": "2021-08-12T20:00:00+02:00",
+    "teams": [
+      { "id": "SergentTeam", "goals": 1 },
+      { "id": "OtticaChecchia", "goals": 5 }
+    ]
+  },
+  {
+    "group": "A",
+    "when": "2021-08-12T21:00:00+02:00",
+    "teams": [
+      { "id": "LARITeam", "goals": 5 },
+      { "id": "SVM", "goals": 3 }
+    ]
+  },
+  {
+    "group": "semi final",
+    "when": "2020-08-14T21:00:00+02:00",
+    "teams": [
+      { "id": "BarIlLupacchiotto", "goals": 4, "penalties": 4 },
+      { "id": "OtticaChecchia", "goals": 4, "penalties": 3 }
+    ]
+  },
+  {
+    "group": "semi final",
+    "when": "2020-08-14T22:00:00+02:00",
+    "teams": [
+      { "id": "MenuMattino", "goals": 3 },
+      { "id": "LARITeam", "goals": 15 }
+    ]
+  },
+  {
+    "group": "final 3rd place",
+    "when": "2020-08-16T21:00:00+02:00",
+    "teams": [
+      { "id": "OtticaChecchia", "goals": 17 },
+      { "id": "MenuMattino", "goals": 0 }
+    ]
+  },
+  {
+    "group": "final",
+    "when": "2020-08-16T22:00:00+02:00",
+    "teams": [
+      { "id": "LARITeam", "goals": 8 },
+      { "id": "BarIlLupacchiotto", "goals": 1 }
+    ]
+  }
+]
