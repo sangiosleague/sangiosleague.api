@@ -2,7 +2,22 @@
   { "id": "BarIlLupacchiotto", "name": "Bar Il Lupacchiotto", "players": [] },
   { "id": "LARITeam", "name": "LA. RI. Team", "players": [] },
   { "id": "MenuMattino", "name": "Menù Mattino", "players": [] },
-  { "id": "OtticaChecchia", "name": "Ottica Checchia", "players": [] },
+  {
+    "id": "OtticaChecchia",
+    "name": "Ottica Checchia",
+    "players": [
+      { "number": 1, "firstName": "Claudio", "lastName": "MONACO" },
+      { "number": 3, "firstName": "Federico", "lastName": "GROSSO" },
+      { "number": 4, "firstName": "Alessio", "lastName": "GROSSO" },
+      { "number": 5, "firstName": "Davide", "lastName": "BURLON" },
+      { "number": 6, "firstName": "Luca", "lastName": "FALORIO" },
+      { "number": 7, "firstName": "Francesco", "lastName": "PIANESE" },
+      { "number": 8, "firstName": "Umberto", "lastName": "DI DONATO" },
+      { "number": 9, "firstName": "Paul", "lastName": "THIEBAUD" },
+      { "number": 10, "firstName": "William", "lastName": "CAMPAGNA" },
+      { "number": 12, "firstName": "FrancescO", "lastName": "SANTONE" }
+    ]
+  },
   {
     "id": "SergentTeam",
     "name": "Sergent Team",
