@@ -19,8 +19,8 @@
     "group": "B",
     "when": "2021-08-11T21:00:00+02:00",
     "teams": [
-      { "id": "OtticaChecchia", "goals": 4 },
-      { "id": "MenuMattino", "goals": 5 }
+      { "id": "MenuMattino", "goals": 5 },
+      { "id": "OtticaChecchia", "goals": 4 }
     ]
   },
   {
@@ -35,8 +35,8 @@
     "group": "B",
     "when": "2021-08-12T20:00:00+02:00",
     "teams": [
-      { "id": "SergentTeam", "goals": 1 },
-      { "id": "OtticaChecchia", "goals": 5 }
+      { "id": "OtticaChecchia", "goals": 5 },
+      { "id": "SergentTeam", "goals": 1 }
     ]
   },
   {
@@ -59,8 +59,8 @@
     "group": "semi final",
     "when": "2020-08-14T22:00:00+02:00",
     "teams": [
-      { "id": "MenuMattino", "goals": 3 },
-      { "id": "LARITeam", "goals": 15 }
+      { "id": "LARITeam", "goals": 15 },
+      { "id": "MenuMattino", "goals": 3 }
     ]
   },
   {
