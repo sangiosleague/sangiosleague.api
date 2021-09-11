@@ -63,7 +63,8 @@
       { "number": 8, "firstName": "Umberto", "lastName": "DI DONATO" },
       { "number": 9, "firstName": "Paul", "lastName": "THIEBAUD" },
       { "number": 10, "firstName": "William", "lastName": "CAMPAGNA" },
-      { "number": 12, "firstName": "FrancescO", "lastName": "SANTONE" }
+      { "number": 12, "firstName": "Francesco", "lastName": "SANTONE" },
+      { "number": -1, "firstName": "Francesco", "lastName": "ZUCCHINI" }
     ]
   },
   {
