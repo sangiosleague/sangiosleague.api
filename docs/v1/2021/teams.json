@@ -1,0 +1,104 @@
+[
+  {
+    "id": "BarIlLupacchiotto",
+    "name": "Bar Il Lupacchiotto",
+    "players": [
+      { "number": 1, "firstName": "Giuseppe", "lastName": "OTTAVIANO" },
+      { "number": 6, "firstName": "Giovanni", "lastName": "SALVATORE" },
+      { "number": 7, "firstName": "Giovanni", "lastName": "PELLICCIA" },
+      { "number": 8, "firstName": "Nicola", "lastName": "PELLICCIA" },
+      { "number": 9, "firstName": "Alessio", "lastName": "PELLICCIA" },
+      { "number": 10, "firstName": "Oreste", "lastName": "COLELLA" },
+      { "number": 12, "firstName": "Dario", "lastName": "LELLA" },
+      { "number": 16, "firstName": "Francesco", "lastName": "GROSSO" },
+      { "number": 23, "firstName": "Nazario", "lastName": "FEMMINILI" },
+      { "number": 25, "firstName": "Francesco", "lastName": "MARIANACCI" },
+      { "number": 97, "firstName": "Alfredo", "lastName": "MARIANACCI" },
+      { "number": 26, "firstName": "Kevin", "lastName": "DOMINGO" }
+    ]
+  },
+  {
+    "id": "LARITeam",
+    "name": "LA. RI. Team",
+    "players": [
+      { "number": 1, "firstName": "Paolo", "lastName": "ROBERTI" },
+      { "number": 2, "firstName": "Andrea", "lastName": "D'ANGELO" },
+      { "number": 3, "firstName": "Paolo", "lastName": "PASCIULLO" },
+      { "number": 4, "firstName": "Carlo", "lastName": "PASCIULLO" },
+      { "number": 5, "firstName": "Emanuele", "lastName": "ROSSI" },
+      { "number": 6, "firstName": "Mattia", "lastName": "PASCIULLO" },
+      { "number": 7, "firstName": "Simone", "lastName": "ANTENUCCI" },
+      { "number": 8, "firstName": "Riccardo", "lastName": "MOSCUFO" },
+      { "number": 9, "firstName": "Francesco", "lastName": "PETTI" },
+      { "number": 10, "firstName": "Francesco", "lastName": "LARIVERA" },
+      { "number": 11, "firstName": "Giovanni", "lastName": "PETTI" }
+    ]
+  },
+  {
+    "id": "MenuMattino",
+    "name": "Menù Mattino",
+    "players": [
+      { "number": 1, "firstName": "Stefano", "lastName": "MONACO" },
+      { "number": 3, "firstName": "Peppino", "lastName": "FINARELLI" },
+      { "number": 4, "firstName": "Simone", "lastName": "FINARELLI" },
+      { "number": 10, "firstName": "Luca", "lastName": "AQUILANO" },
+      { "number": 11, "firstName": "Luca", "lastName": "DI_IORIO" },
+      { "number": 17, "firstName": "Matteo", "lastName": "DI_IORIO" },
+      { "number": 19, "firstName": "Rael", "lastName": "PEDONE" },
+      { "number": 21, "firstName": "Massimo", "lastName": "MONACO" },
+      { "number": 22, "firstName": "Marco", "lastName": "DI_IORIO" },
+      { "number": 28, "firstName": "Gianluca", "lastName": "AQUILANO" }
+    ]
+  },
+  {
+    "id": "OtticaChecchia",
+    "name": "Ottica Checchia",
+    "players": [
+      { "number": 1, "firstName": "Claudio", "lastName": "MONACO" },
+      { "number": 3, "firstName": "Federico", "lastName": "GROSSO" },
+      { "number": 4, "firstName": "Alessio", "lastName": "GROSSO" },
+      { "number": 5, "firstName": "Davide", "lastName": "BURLON" },
+      { "number": 6, "firstName": "Luca", "lastName": "FALORIO" },
+      { "number": 7, "firstName": "Francesco", "lastName": "PIANESE" },
+      { "number": 8, "firstName": "Umberto", "lastName": "DI DONATO" },
+      { "number": 9, "firstName": "Paul", "lastName": "THIEBAUD" },
+      { "number": 10, "firstName": "William", "lastName": "CAMPAGNA" },
+      { "number": 12, "firstName": "FrancescO", "lastName": "SANTONE" }
+    ]
+  },
+  {
+    "id": "SergentTeam",
+    "name": "Sergent Team",
+    "players": [
+      { "number": 3, "firstName": "Cristiano", "lastName": "PELLICCIA" },
+      { "number": 7, "firstName": "Giovanni", "lastName": "LELLA" },
+      { "number": 8, "firstName": "Matteo Pio", "lastName": "FRANCHELLA" },
+      { "number": 9, "firstName": "Riccardo", "lastName": "BODANI" },
+      { "number": 10, "firstName": "Nicola", "lastName": "TROILO" },
+      { "number": 11, "firstName": "Gianpietro", "lastName": "DESIDERIO" },
+      { "number": 12, "firstName": "Luigi", "lastName": "LELLA" },
+      { "number": 17, "firstName": "Giovanni", "lastName": "DESIDERIO" },
+      { "number": 20, "firstName": "Gianni", "lastName": "MARIANACCI" },
+      { "number": 22, "firstName": "Luca", "lastName": "LATTANZIO" },
+      { "number": 25, "firstName": "Giuseppe", "lastName": "PELLICCIA" },
+      { "number": 69, "firstName": "Luca", "lastName": "MARCHIONE" }
+    ]
+  },
+  {
+    "id": "SVM",
+    "name": "SVM",
+    "players": [
+      { "number": 1, "firstName": "", "lastName": "BATTISTA" },
+      { "number": 2, "firstName": "", "lastName": "IZZOTTI" },
+      { "number": 3, "firstName": "", "lastName": "BARTOLINI" },
+      { "number": 4, "firstName": "", "lastName": "CARBOSIERO" },
+      { "number": 5, "firstName": "", "lastName": "GIARDINELLI" },
+      { "number": 6, "firstName": "", "lastName": "RODINI" },
+      { "number": 7, "firstName": "", "lastName": "SAMBROTTA" },
+      { "number": 8, "firstName": "", "lastName": "DI NELLA" },
+      { "number": 9, "firstName": "", "lastName": "DI CASOLI" },
+      { "number": 10, "firstName": "", "lastName": "BIRRA" },
+      { "number": 11, "firstName": "", "lastName": "VITULLO" }
+    ]
+  }
+]
