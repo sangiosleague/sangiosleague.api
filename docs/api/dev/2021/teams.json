@@ -1,1 +1,8 @@
-[]
+[
+  { "id": "BarIlLupacchiotto", "name": "Bar Il Lupacchiotto", "players": [] },
+  { "id": "LARITeam", "name": "LA. RI. Team", "players": [] },
+  { "id": "MenuMattino", "name": "Menù Mattino", "players": [] },
+  { "id": "OtticaChecchia", "name": "Ottica Checchia", "players": [] },
+  { "id": "SergentTeam", "name": "Sergent Team", "players": [] },
+  { "id": "SVM", "name": "SVM", "players": [] }
+]
