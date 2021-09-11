@@ -1,6 +1,39 @@
 [
-  { "id": "BarIlLupacchiotto", "name": "Bar Il Lupacchiotto", "players": [] },
-  { "id": "LARITeam", "name": "LA. RI. Team", "players": [] },
+  {
+    "id": "BarIlLupacchiotto",
+    "name": "Bar Il Lupacchiotto",
+    "players": [
+      { "number": 1, "firstName": "Giuseppe", "lastName": "OTTAVIANO" },
+      { "number": 6, "firstName": "Giovanni", "lastName": "SALVATORE" },
+      { "number": 7, "firstName": "Giovanni", "lastName": "PELLICCIA" },
+      { "number": 8, "firstName": "Nicola", "lastName": "PELLICCIA" },
+      { "number": 9, "firstName": "Alessio", "lastName": "PELLICCIA" },
+      { "number": 10, "firstName": "Oreste", "lastName": "COLELLA" },
+      { "number": 12, "firstName": "Dario", "lastName": "LELLA" },
+      { "number": 16, "firstName": "Francesco", "lastName": "GROSSO" },
+      { "number": 23, "firstName": "Nazario", "lastName": "FEMMINILI" },
+      { "number": 25, "firstName": "Francesco", "lastName": "MARIANACCI" },
+      { "number": 97, "firstName": "Alfredo", "lastName": "MARIANACCI" },
+      { "number": 26, "firstName": "Kevin", "lastName": "DOMINGO" }
+    ]
+  },
+  {
+    "id": "LARITeam",
+    "name": "LA. RI. Team",
+    "players": [
+      { "number": 1, "firstName": "Paolo", "lastName": "ROBERTI" },
+      { "number": 2, "firstName": "Andrea", "lastName": "D'ANGELO" },
+      { "number": 3, "firstName": "Paolo", "lastName": "PASCIULLO" },
+      { "number": 4, "firstName": "Carlo", "lastName": "PASCIULLO" },
+      { "number": 5, "firstName": "Emanuele", "lastName": "ROSSI" },
+      { "number": 6, "firstName": "Mattia", "lastName": "PASCIULLO" },
+      { "number": 7, "firstName": "Simone", "lastName": "ANTENUCCI" },
+      { "number": 8, "firstName": "Riccardo", "lastName": "MOSCUFO" },
+      { "number": 9, "firstName": "Francesco", "lastName": "PETTI" },
+      { "number": 10, "firstName": "Francesco", "lastName": "LARIVERA" },
+      { "number": 11, "firstName": "Giovanni", "lastName": "PETTI" }
+    ]
+  },
   {
     "id": "MenuMattino",
     "name": "Menù Mattino",
@@ -51,5 +84,21 @@
       { "number": 69, "firstName": "Luca", "lastName": "MARCHIONE" }
     ]
   },
-  { "id": "SVM", "name": "SVM", "players": [] }
+  {
+    "id": "SVM",
+    "name": "SVM",
+    "players": [
+      { "number": 1, "firstName": "", "lastName": "BATTISTA" },
+      { "number": 2, "firstName": "", "lastName": "IZZOTTI" },
+      { "number": 3, "firstName": "", "lastName": "BARTOLINI" },
+      { "number": 4, "firstName": "", "lastName": "CARBOSIERO" },
+      { "number": 5, "firstName": "", "lastName": "GIARDINELLI" },
+      { "number": 6, "firstName": "", "lastName": "RODINI" },
+      { "number": 7, "firstName": "", "lastName": "SAMBROTTA" },
+      { "number": 8, "firstName": "", "lastName": "DI NELLA" },
+      { "number": 9, "firstName": "", "lastName": "DI CASOLI" },
+      { "number": 10, "firstName": "", "lastName": "BIRRA" },
+      { "number": 11, "firstName": "", "lastName": "VITULLO" }
+    ]
+  }
 ]
